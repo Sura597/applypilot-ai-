@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.db
+.env
+storage/uploads/*
+!storage/uploads/.gitkeep
+storage/generated/*
+!storage/generated/.gitkeep
+.vercel
